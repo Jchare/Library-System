@@ -18,11 +18,11 @@ The Library Managemnt System is a console-based java application designed to hel
 - List Books from file(books.txt
 
 ## Technologies Used
-Language: Java
-Concepts: OOP(Encapsulation, Abstraction, Composition)
-Data Structures: ArrayList, Stack, Queue
-File Handlinh: Java I/O (FileReader, FileWriter, PrintWriter, BufferedReader)
-Exception Handling: Managment of inavalid inputs or missing files
+**Language**: Java
+**Concepts**: OOP(Encapsulation, Abstraction, Composition)
+**Data Structures**: ArrayList, Stack, Queue
+**File Handling**: Java I/O (FileReader, FileWriter, PrintWriter, BufferedReader)
+**Exception Handling**: Managment of inavalid inputs or missing files
 
 ## Installation
 1. **Clone Repository**
@@ -62,7 +62,7 @@ Enter your choice:
 This project is licensed under the MIT license.
 
 
-Author
+**Author**
 Jamila C. Nchare
-Mail: Jamilachelsy53@icloud.com
-GitHub:github.com/Jchare
+**Mail**: Jamilachelsy53@icloud.com
+**GitHub**: github.com/Jchare
