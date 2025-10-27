@@ -11,28 +11,28 @@ The Library Managemnt System is a console-based java application designed to hel
 - [Future Improvements](#future-improvements)
 - [License](#license)
 
-#features
+##Features
 - Add, borrow, return, and delete books.
 - Search by title, author, or ISBN
 - sort books by title or year
 - List Books from file(books.txt
 
-#technologies-used
+##Technologies Used
 Language: Java
 Concepts: OOP(Encapsulation, Abstraction, Composition)
 Data Structures: ArrayList, Stack, Queue
 File Handlinh: Java I/O (FileReader, FileWriter, PrintWriter, BufferedReader)
 Exception Handling: Managment of inavalid inputs or missing files
 
-#installation
-1. Clone Repository
+##Installation
+1. **Clone Repository**
    git clone https://github.com/Jchare/Library-System.git
     cd Library-System
 2. Compile the code
    javac *.java
 3. Run the Application
    java main
-#usage
+##Usage
 Once the program runs, you'll see a command-line menu. Choose an option to continue
 
 Books loaded from file.
@@ -51,12 +51,12 @@ Books loaded from file.
 0. Exit
 Enter your choice:
 
-#future-improvements
+##Future Improvements
 - Build a GUI using JavaFX or Swing
 - Replace text file storage with SQlite or Json database
 - Implement undo functionality using action history stack
 
-#license
+##License
 This project is licensed under the MIT license.
 
 
