@@ -36,7 +36,7 @@ The Library Managemnt System is a console-based java application designed to hel
    
 ## Usage
 Once the program runs, you'll see a command-line menu. Choose an option to continue
-
+```
 Books loaded from file.
 
 === Library Management System ===
@@ -52,7 +52,7 @@ Books loaded from file.
 10. Search by ISBN
 0. Exit
 Enter your choice:
-
+```
 ## Future Improvements
 - Build a GUI using JavaFX or Swing
 - Replace text file storage with SQlite or Json database
